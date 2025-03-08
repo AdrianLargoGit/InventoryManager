@@ -20,7 +20,7 @@ It helps small and medium-sized businesses manage their stock, track product qua
 ## Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/InventoryManager.git
+   git clone https://github.com/AdrianLargoGit/InventoryManager.git
 
 ## License
 This project is licensed under the GNU General Public License (GPL).
