@@ -9,7 +9,7 @@ public class Main {
             Product product = new Product(1L, "Producto1", new Date());
             Inventory inventory = new Inventory("TestInventory");
             inventory.addProduct(product);
-            System.out.println("Product added successfully!");
+            System.out.print("Product added successfully!");
         } catch (Exception e) {
             e.printStackTrace();
         }
